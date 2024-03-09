@@ -1,8 +1,3 @@
----
-title: "Bank Marketing Data Analysis"
-output: github_document
----
-
 # Bank Marketing Data Analysis
 
 This repository contains a Python analysis of the Bank Marketing dataset from the UCI Machine Learning Repository. The analysis aims to identify factors that influence a client's decision to subscribe to a term deposit, facilitating the development of more effective bank marketing strategies.
