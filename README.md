@@ -51,9 +51,9 @@ Performs K-Means clustering to identify distinct customer segments based on thei
 ## How to Run
 
 1. Ensure you have Python installed on your system.
-2. Install the required libraries: `pip install numpy pandas matplotlib seaborn scikit-learn`.
+2. Install the required libraries.
 3. Clone this repository to your local machine.
-4. Run the script: `python bank_marketing_analysis.py` (replace with the actual script name).
+4. Run the script: `bank_marketing_analysis.ipynb`.
 
 ## Results
 
